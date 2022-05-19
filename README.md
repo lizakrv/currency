@@ -5,6 +5,6 @@ The program shows you the up-to-date currency exchange rates between United Stat
 
 ### Libraries used
 Pandas
-  Matplolib 
+    Matplolib 
 ### Packages used
 Forex 
